@@ -14,5 +14,5 @@ A lightweight terminal-based tool to encode plain text into Morse code and decod
 
 2.  Run the script:
 
-Bash
-./morse.sh
+```bash
+   ./morse.sh
